@@ -1,0 +1,12 @@
+{
+    
+	"parent": "block/oak_leaves/oak_leaves_2apple",
+    
+	"textures": {
+        
+		"all": "block/oak2_leaves"
+,
+		"appleskin": "block/appleskin",
+		"rounded_leaves": "block/rounded_oak_leaves2"    
+	}
+}

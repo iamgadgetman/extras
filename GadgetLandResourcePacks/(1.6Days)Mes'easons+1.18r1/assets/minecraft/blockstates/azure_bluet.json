@@ -1,0 +1,12 @@
+{
+    
+	"variants": {
+        
+		"": [
+		{ "model": "block/azure_bluet" }
+,
+		{ "model": "block/flowers/azure_bluet_blue" }
+		]    
+	}
+
+}

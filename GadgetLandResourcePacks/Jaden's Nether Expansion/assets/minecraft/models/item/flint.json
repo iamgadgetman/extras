@@ -1,0 +1,188 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/flint"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 260101
+      },
+      "model": "entity/bl_wraith_idle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260102
+      },
+      "model": "entity/bl_wraith_hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260103
+      },
+      "model": "entity/bl_wraith_walk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260104
+      },
+      "model": "entity/bl_wraith_prefire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260105
+      },
+      "model": "entity/bl_wraith_death"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260301
+      },
+      "model": "entity/ichor_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260302
+      },
+      "model": "entity/lost_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260303
+      },
+      "model": "entity/moody_soul"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260304
+      },
+      "model": "entity/ichor_soul_hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260305
+      },
+      "model": "entity/lost_soul_hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260306
+      },
+      "model": "entity/moody_soul_hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260401
+      },
+      "model": "entity/cinder/idle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260402
+      },
+      "model": "entity/cinder/hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260403
+      },
+      "model": "entity/cinder/walk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260404
+      },
+      "model": "entity/cinder/death"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260501
+      },
+      "model": "entity/skeleton_piglin_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260502
+      },
+      "model": "entity/skeleton_piglin_body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260601
+      },
+      "model": "entity/g_soul_sandshark_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260602
+      },
+      "model": "entity/g_soul_sandshark_body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260603
+      },
+      "model": "entity/a_soul_sandshark_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260604
+      },
+      "model": "entity/a_soul_sandshark_body"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260701
+      },
+      "model": "entity/baby_ghast"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260901
+      },
+      "model": "entity/possessed/idle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260902
+      },
+      "model": "entity/possessed/hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260903
+      },
+      "model": "entity/possessed/walk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260904
+      },
+      "model": "entity/possessed/attack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260905
+      },
+      "model": "entity/possessed/attack_walk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260906
+      },
+      "model": "entity/possessed/attack_hurt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 260907
+      },
+      "model": "entity/possessed/death"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 261001
+      },
+      "model": "entity/trampler/idle"
+    }
+  ]
+}

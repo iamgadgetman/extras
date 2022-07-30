@@ -1,0 +1,16 @@
+{
+    
+	"variants": {
+        
+		"": [
+			{ "model": "block/red_mushroom", "weight": 100 },
+		    	
+{ "model": "block/red_mushroom/red_mushroom1", "weight": 1 },
+			
+{ "model": "block/red_mushroom/red_mushroom2", "weight": 60 },
+			
+{ "model": "block/red_mushroom/red_mushroom3", "weight": 30 }  
+		]   
+	}
+
+}

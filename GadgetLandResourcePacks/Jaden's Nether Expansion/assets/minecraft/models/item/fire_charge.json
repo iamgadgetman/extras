@@ -1,0 +1,14 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/fire_charge"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 260405
+      },
+      "model": "custom_item/cinderang"
+    }
+  ]
+}

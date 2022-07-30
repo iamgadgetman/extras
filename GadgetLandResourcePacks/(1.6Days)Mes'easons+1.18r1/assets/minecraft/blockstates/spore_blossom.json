@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+		{"model": "minecraft:block/spore_blossom","weight":100},
+		{"model": "minecraft:block/flowers/spore_blossom1","weight":20},
+		{"model": "minecraft:block/flowers/spore_blossomgold","weight":1}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+    
+	"variants": {
+        
+		"": [
+			{ "model": "block/brown_mushroom", "weight": 50 },
+		    	
+{ "model": "block/brown_mushroom/brown_rollrim", "weight": 15 },
+			
+{ "model": "block/brown_mushroom/brown_mushroom1", "weight": 40 },
+			
+{ "model": "block/brown_mushroom/radiated_mushroom", "weight": 1 },
+			
+{ "model": "block/brown_mushroom/shaggy_mane", "weight": 20 },
+			
+{ "model": "block/brown_mushroom/white_mushroom", "weight": 30 }  
+		]   
+	}
+
+}

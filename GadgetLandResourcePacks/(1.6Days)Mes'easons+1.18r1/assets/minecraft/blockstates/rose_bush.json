@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "half=lower": [
+		{"model": "minecraft:block/rose_bush_bottom", "weight":2},
+		{"model": "minecraft:block/flowers/rose_bush_bottom1", "weight":4},
+		{"model": "minecraft:block/flowers/rose_bush_bottom2", "weight":2}
+    ],
+    "half=upper": [
+		{"model": "minecraft:block/rose_bush_top", "weight":2},
+		{"model": "minecraft:block/flowers/rose_bush_top1", "weight":4},
+		{"model": "minecraft:block/flowers/rose_bush_top2", "weight":2}
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    
+	"parent": "block/leaves_rounded",
+    
+	"textures": {
+        
+		"all": "block/flowering_azalea_leaves"
+,
+		"rounded_leaves": "block/rounded_flowering_azalea_leaves"    
+	}
+}

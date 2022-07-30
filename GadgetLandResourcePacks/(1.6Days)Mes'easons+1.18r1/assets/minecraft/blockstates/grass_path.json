@@ -1,0 +1,42 @@
+{
+    
+	"variants": {
+        
+		"": [ 
+			{ "model": "block/grass_path/grass_path", "weight": 2 }
+, 
+			{ "model": "block/grass_path/grass_path1", "weight": 30 }
+, 
+			{ "model": "block/grass_path/grass_path2", "weight": 2 },
+ 
+			{ "model": "block/grass_path/grass_path3", "weight": 3 },
+
+			{ "model": "block/grass_path/grass_path4", "weight": 5 },
+				{ "model": "block/grass_path/grass_path", "y": 90 },
+            
+				{ "model": "block/grass_path/grass_path", "y": 180 },
+            
+				{ "model": "block/grass_path/grass_path", "y": 270 }
+, 
+				{ "model": "block/grass_path/grass_path2", "y": 90 },
+            
+				{ "model": "block/grass_path/grass_path2", "y": 180 },
+            
+				{ "model": "block/grass_path/grass_path2", "y": 270 }
+,
+				{ "model": "block/grass_path/grass_path3", "y": 90 },
+            
+				{ "model": "block/grass_path/grass_path3", "y": 180 },
+            
+				{ "model": "block/grass_path/grass_path3", "y": 270 }
+,
+				{ "model": "block/grass_path/grass_path4", "y": 90 },
+            
+				{ "model": "block/grass_path/grass_path4", "y": 180 },
+            
+				{ "model": "block/grass_path/grass_path4", "y": 270 }
+
+		]   
+	}
+
+}

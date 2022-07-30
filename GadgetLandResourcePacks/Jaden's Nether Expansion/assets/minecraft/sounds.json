@@ -1,0 +1,132 @@
+{
+	"entity.wraith.ambient" : {
+	"subtitle": "Wraith whispers",
+	"sounds":[
+		"wraith/say1",
+		"wraith/say2",
+		"wraith/say3",
+		"wraith/say4",
+		"wraith/say5",
+		"wraith/say6"
+		]
+	},
+	"entity.wraith.attack" : {
+	"subtitle": "Wraith prepares attack",
+	"sounds":[
+		"wraith/attack"
+		]
+	},
+	"entity.wraith.fire" : {
+	"subtitle": "Wraith fires attack",
+	"sounds":[
+		"wraith/fire"
+		]
+	},
+	"entity.wraith.fly" : {
+	"subtitle": "Wraith floating",
+	"sounds":[
+		"wraith/fly1",
+		"wraith/fly2",
+		"wraith/fly3",
+		"wraith/fly4",
+		"wraith/fly5"
+		]
+	},
+	"entity.wraith.dies" : {
+	"subtitle": "Wraith dies",
+	"sounds":[
+		"wraith/death1",
+		"wraith/death2"
+		]
+	},
+	"entity.wraith.hurt" : {
+	"subtitle": "Wraith hurts",
+	"sounds":[
+		"wraith/hurt1",
+		"wraith/hurt2",
+                "wraith/hurt3"
+		]
+	},
+	"entity.possessed.convert" : {
+	"subtitle": "Skeleton gets possessed",
+	"sounds":[
+		"possessed/convert1",
+		"possessed/convert2"
+		]
+	},
+	"entity.possessed.dies" : {
+	"subtitle": "Possessed dies",
+	"sounds":[
+		"possessed/death"
+		]
+	},
+	"entity.possessed.hurt" : {
+	"subtitle": "Possessed hurts",
+	"sounds":[
+		"possessed/hurt1",
+		"possessed/hurt2",
+                "possessed/hurt3",
+                "possessed/hurt4"
+		]
+	},
+	"entity.possessed.ambient" : {
+	"subtitle": "Possessed rattles",
+	"sounds":[
+		"possessed/say1",
+		"possessed/say2",
+                "possessed/say3"
+		]
+	},
+	"item.frost_charm.use" : {
+	"subtitle": "Frost charm protects mob",
+	"sounds":[
+		"frost_charm/use1",
+		"frost_charm/use2"
+		]
+	},
+	"entity.crimera.ambient" : {
+	"subtitle": "Crimera screeching",
+	"sounds":[
+		"crimera/say1",
+		"crimera/say2",
+                "crimera/say3",
+                "crimera/say4",
+                "crimera/say5",
+                "crimera/say6"
+		]
+	},
+	"entity.crimera.charge" : {
+	"subtitle": "Crimera attacks",
+	"sounds":[
+		"crimera/charge1",
+                "crimera/charge2"
+		]
+	},
+	"entity.crimera.death" : {
+	"subtitle": "Crimera explodes",
+	"sounds":[
+		"crimera/death"
+		]
+	},
+	"entity.crimera.hurt" : {
+	"subtitle": "Crimera hurts",
+	"sounds":[
+		"crimera/scream1",
+		"crimera/scream2",
+                "crimera/scream3"
+		]
+	},
+	"item.totem_soultrap.trap" : {
+	"subtitle": "Soul gets trapped",
+	"sounds":[
+		"totem_of_soultrap/trap1",
+		"totem_of_soultrap/trap2"
+		]
+	},
+	"item.totem_soultrap.use" : {
+	"subtitle": "Used totem of soultrap",
+	"sounds":[
+		"totem_of_soultrap/attack"
+		]
+	}
+}

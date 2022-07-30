@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=east": [
+		{"model": "minecraft:block/jack_o_lantern","y": 90, "weight": 10 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern1","y": 90, "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern2","y": 90, "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern3","y": 90, "weight": 2 }
+    ],
+    "facing=north": [
+		{"model": "minecraft:block/jack_o_lantern", "weight": 10 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern1", "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern2", "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern3", "weight": 2 }
+    ],
+    "facing=south": [
+		{"model": "minecraft:block/jack_o_lantern","y": 180, "weight": 10 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern1","y": 180, "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern2","y": 180, "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern3","y": 180, "weight": 2 }
+    ],
+    "facing=west": [
+		{"model": "minecraft:block/jack_o_lantern","y": 270, "weight": 10 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern1","y": 270, "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern2","y": 270, "weight": 2 },
+		{"model": "minecraft:block/pumpkin/jack_o_lantern3","y": 270, "weight": 2 }
+    ]
+  }
+}

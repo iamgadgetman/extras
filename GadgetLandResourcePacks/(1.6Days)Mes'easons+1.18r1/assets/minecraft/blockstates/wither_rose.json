@@ -1,0 +1,12 @@
+{
+    	
+	"variants": {
+        
+		"":[
+			 { "model": "block/wither_rose", "weight": 1000  },
+			 { "model": "block/flowers/golden_rose", "weight": 1  }
+		]
+    
+	}
+
+}

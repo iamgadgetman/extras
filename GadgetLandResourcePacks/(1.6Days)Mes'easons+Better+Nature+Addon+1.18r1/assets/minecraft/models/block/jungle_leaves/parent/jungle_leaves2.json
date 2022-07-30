@@ -1,0 +1,11 @@
+{
+    
+	"parent": "block/leaves_rounded",
+    
+	"textures": {
+        
+		"all": "block/jungle2_leaves"
+,
+		"rounded_leaves": "block/rounded_jungle_leaves2"    
+	}
+}

@@ -1,0 +1,15 @@
+{
+    
+	"variants": {
+        
+		"": [ 
+			{ "model": "block/cactus", "weight": 1 },
+ 
+			{ "model": "block/cactus/cactus_f_top_side_1", "weight": 2  },
+ 
+			{ "model": "block/cactus/cactus2", "weight": 5  },
+			{ "model": "block/cactus/cactus_f_top_1", "weight": 5  }  
+		]
+	}
+
+}

@@ -1,0 +1,12 @@
+{
+    
+	"variants": {
+        
+		"": [
+		{ "model": "block/allium" }
+,
+		{ "model": "block/flowers/allium_white" }
+		]    
+	}
+
+}

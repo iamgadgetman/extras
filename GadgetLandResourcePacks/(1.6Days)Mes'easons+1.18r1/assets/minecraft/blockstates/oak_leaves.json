@@ -1,0 +1,21 @@
+{
+    
+	"variants": {
+        
+		"": [ 
+			{ "model": "block/oak_leaves/parent/oak_leaves", "weight": 300 }
+,	
+
+			{ "model": "block/oak_leaves/parent/oak_1apple", "weight": 1 },
+			{ "model": "block/oak_leaves/parent/oak_1apple", "y": 90, "weight": 1 },
+			{ "model": "block/oak_leaves/parent/oak_1apple", "y": 180, "weight": 1 },
+			{ "model": "block/oak_leaves/parent/oak_1apple", "y": 270, "weight": 1 },
+			
+			{ "model": "block/oak_leaves/parent/oak_2apple", "weight": 1 },
+			{ "model": "block/oak_leaves/parent/oak_2apple", "y": 90, "weight": 1 },
+			{ "model": "block/oak_leaves/parent/oak_2apple", "y": 180, "weight": 1 },
+			{ "model": "block/oak_leaves/parent/oak_2apple", "y": 270, "weight": 1 }     
+		]  
+	}
+
+}

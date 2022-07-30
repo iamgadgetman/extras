@@ -1,0 +1,27 @@
+{
+    
+	"variants": {
+        
+		"axis=y": [     { "model": "block/jungle_log", "weight": 50 },
+				{ "model": "block/jungle_log/jungle_log1", "weight": 4 },
+				{ "model": "block/jungle_log/jungle_log2", "weight": 8 },
+				{ "model": "block/jungle_log/jungle_log3", "weight": 2 }         	
+		],
+		"axis=z": [     { "model": "block/jungle_log", "x": 90, "weight": 50 },
+
+				{ "model": "block/jungle_log/jungle_log1", "x": 90, "weight": 4 },
+				{ "model": "block/jungle_log/jungle_log2", "x": 90, "weight": 8 },
+				{ "model": "block/jungle_log/jungle_log3", "x": 90, "weight": 2 }
+        	],
+		"axis=x": [     { "model": "block/jungle_log", "x": 90, "y": 90, "weight": 50 }
+,
+				{ "model": "block/jungle_log/jungle_log1", "x": 90, "y": 90, "weight": 4 }
+,
+				{ "model": "block/jungle_log/jungle_log2", "x": 90, "y": 90, "weight": 8 }
+,
+				{ "model": "block/jungle_log/jungle_log3", "x": 90, "y": 90, "weight": 2 }
+
+    		]
+	}
+
+}

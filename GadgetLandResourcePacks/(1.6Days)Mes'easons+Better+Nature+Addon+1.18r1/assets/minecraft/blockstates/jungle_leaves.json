@@ -1,0 +1,14 @@
+{
+    
+	"variants": {
+        
+		"": [ 
+			{ "model": "block/jungle_leaves/parent/jungle_leaves", "weight": 3 }
+, 
+			{ "model": "block/jungle_leaves/parent/jungle_leaves1", "weight": 5 }, 
+			{ "model": "block/jungle_leaves/parent/jungle_leaves2","weight": 5 } 
+		]    
+
+	}
+
+}

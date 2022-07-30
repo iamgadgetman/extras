@@ -1,0 +1,11 @@
+{
+    
+	"parent": "block/cross",
+    
+	"textures": {
+        
+		"cross": "block/yellow_tulip1"
+    
+	}
+
+}
